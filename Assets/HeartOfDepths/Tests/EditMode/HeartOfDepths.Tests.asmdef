@@ -1,0 +1,14 @@
+{
+  "name": "HeartOfDepths.Tests",
+  "rootNamespace": "HeartOfDepths.Tests",
+  "references": [
+    "HeartOfDepths.Core"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}
