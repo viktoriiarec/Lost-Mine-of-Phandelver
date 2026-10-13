@@ -1,0 +1,8 @@
+{
+  "name": "HeartOfDepths.Runtime",
+  "rootNamespace": "HeartOfDepths.Runtime",
+  "references": [
+    "HeartOfDepths.Core"
+  ],
+  "autoReferenced": true
+}
