@@ -1,0 +1,7 @@
+{
+  "name": "LostMineOfPhandelver.Editor",
+  "rootNamespace": "LostMineOfPhandelver.Editor",
+  "references": ["LostMineOfPhandelver.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
