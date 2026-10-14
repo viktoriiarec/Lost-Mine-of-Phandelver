@@ -1,0 +1,8 @@
+{
+  "name": "LostMineOfPhandelver.Tests",
+  "rootNamespace": "LostMineOfPhandelver.Tests",
+  "references": ["LostMineOfPhandelver.Core"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": false
+}
