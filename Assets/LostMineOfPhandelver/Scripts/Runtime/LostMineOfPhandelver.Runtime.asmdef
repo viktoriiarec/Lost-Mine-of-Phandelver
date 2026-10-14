@@ -1,0 +1,6 @@
+{
+  "name": "LostMineOfPhandelver.Runtime",
+  "rootNamespace": "LostMineOfPhandelver.Runtime",
+  "references": ["LostMineOfPhandelver.Core"],
+  "autoReferenced": true
+}
