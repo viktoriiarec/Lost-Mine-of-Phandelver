@@ -19,6 +19,11 @@
 *.opendb
 *.VC.db
 
+# Do not commit full project archives
+*.zip
+*.rar
+*.7z
+
 # IDE
 .vs/
 .idea/
